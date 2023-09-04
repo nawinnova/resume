@@ -6,18 +6,28 @@
 #   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 - company: MSSL Solar Wind Connectivity Working Group
   position: Co-Organiser
-  duration: Dec 2022 - Present
+  duration: Dec 2022 &mdash; Present
   summary: Organise a special science working group at MSSL to investigate Heliophysics science using Solar Orbiter Data
 
+- company: MSSL Solar Physics Group
+  position: Meeting Organiser, Seminar Organiser
+  duration: Oct 2022 &mdash; Jun 2023 , Oct 2023 &mdash; Present
+  summary: Organise weekly meeting for the solar group in academic year 2022-23, Organise a semi-regular invited seminar for the solar group in academic year 2023-24
+
+- company: MSSL Space Science Week
+  position: Project Supervisor
+  duration: Jul 2022, Jul 2023
+  summary: Supervised a week-long solar physics project for a group of high school students who attend MSSL space science week.
+  
 # ORBYTs
 - company: ORBYTs Project -  Wembley High Technology College
   position: Advisor
-  duration:  Nov 2022 -  Jul 2023
+  duration:  Nov 2022 &mdash; Jul 2023
   summary: Advised and Supervised a solar physics research project for a group of Grade 11-13 students at Wembley High Technology College.
 
 
 # Communications Coordinator
 - company: Private GCSE Astronomy Tutor
   # position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+  duration: Nov 2021  &mdash; Present
+  summary: Prepare and Teach  bi-weekly GCSE Astronomy Lesson for a home-school student via online platform.
