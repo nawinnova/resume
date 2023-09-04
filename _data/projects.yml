@@ -21,7 +21,7 @@ new insights that will help answer the open question.
   # url: "#"
   description: In this work, we examine burst-mode observations by the Magnetospheric Multiscale Mission (MMS)
 for an interplanetary shock passage on 8 January 2018. We use a Kolmogorov-Yaglom Law for the
-third-order structure function and a von K ́arm ́an-decay law to calculate the energy dissipation rates
+third-order structure function and a von Karman-decay law to calculate the energy dissipation rates
 at the inertial scale and energy-containing scale, respectively. The results show that the downstream
 region of the shock has stronger and better developed turbulence and a higher energy transfer rate than
 the upstream region.
