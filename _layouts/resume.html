@@ -91,7 +91,7 @@
           <p class="resume-item-copy">{{ project.description }}</p>
             <ul class="resume-item-list">
               {% for publication in project.publications %}
-              <li>{% if publications.url %}<a href="{{ publications.url }}" itemprop="url">{{ publications.publication }}</a>{% else %}{{ publications.publication }}{% endif %}</li>
+              <li>{{ publications.publication }}</li>
               {% endfor %}
             </ul>
 <!--           <p class="resume-item-copy">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.publications }}</a>{% else %}{{ project.publications }}{% endif %}</p> -->
