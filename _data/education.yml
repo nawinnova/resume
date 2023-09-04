@@ -2,7 +2,8 @@
 - degree: Doctor of Philosophy in Space and Climate Physics
   uni: Mullard Space Science Laboratory, University College London
   year: 2021 &mdash; present
-  # awards: None
+  awards:
+    - award: Thesis Project - Investigation of Slow Solar Wind Origin at Coronal Hole Boundaries
   summary: PhD Supervisors - Dr David Long, Prof Lucie Green, Dr Stephanie Yardley, Dr Alexander James
   
 - degree: Bachelor of Science (Physics)
