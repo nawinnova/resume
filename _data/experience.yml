@@ -5,6 +5,11 @@
 #   duration: Oct, 2013 &mdash; Present
 #   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
+- company: Solar Physics Module (SPCE0011)
+  position: Postgraduate Teaching Assistant
+  duration: Jan 2024 - Jun 2024
+  summary: Responsible for grading the assignments submitted by the students and providing tutorial sessions. Develope a hands-on tutorial to analyse solar spectroscopic observations using Python and Google Colab.
+  
 - company: INAF - Turin Astrophysical Observatory
   position: Guest Researcher
   duration: 27 Nov &mdash; 6 Dec 2023
@@ -22,7 +27,7 @@
 
 - company: MSSL Space Science Week
   position: Project Supervisor
-  duration: Jul 2022, Jul 2023
+  duration: Jul 2022, Jul 2023, Jul 2024
   summary: Supervised a week-long solar physics project for a group of high school students who attend MSSL space science week.
   
 # ORBYTs
