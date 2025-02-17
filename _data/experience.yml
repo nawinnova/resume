@@ -5,15 +5,20 @@
 #   duration: Oct, 2013 &mdash; Present
 #   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
+- company: Hinode-18/IRIS-16 meeting
+  position: Local Organisation Committee (LOC)
+  duration: Oct 2024 &mdash; Present
+  summary: Participate in the organisation and planning of the Hinode-18/IRIS-16 meeting at UCL, UK on 23-27 June 2025
+
 - company: Solar Physics Module (SPCE0011)
   position: Postgraduate Teaching Assistant
-  duration: Jan 2024 - Jun 2024
-  summary: Responsible for grading the assignments submitted by the students and providing tutorial sessions. Develope a hands-on tutorial to analyse solar spectroscopic observations using Python and Google Colab.
+  duration: Jan 2024 &mdash; Jun 2024
+  summary: Responsible for grading the assignments submitted by the students and providing tutorial sessions. Develop a hands-on tutorial to analyse solar spectroscopic observations using Python and Google Colab.
   
 - company: INAF - Turin Astrophysical Observatory
   position: Guest Researcher
   duration: 27 Nov &mdash; 6 Dec 2023
-  summary: Collaborate with METIS team on a follow-up research from the 'Coronal Hole Boundary Expansion' Solar Orbiter Observation Plan campaign.
+  summary: Collaborate with the METIS team on follow-up research from the 'Coronal Hole Boundary Expansion' Solar Orbiter Observation Plan campaign.
 
 - company: MSSL Solar Wind Connectivity Working Group
   position: Co-Organiser
@@ -23,12 +28,12 @@
 - company: MSSL Solar Physics Group
   position: Meeting Organiser, Seminar Organiser
   duration: Oct 2022 &mdash; Present
-  summary: Organise weekly meeting for the solar group in academic year 2022-23. Organise a semi-regular invited seminar for the solar group in academic year 2023-24
+  summary: Organise weekly meetings for the solar group in the academic year 2022-23. Organise a semi-regular invited seminar for the solar group in the academic year 2023-24
 
 - company: MSSL Space Science Week
   position: Project Supervisor
   duration: Jul 2022, Jul 2023, Jul 2024
-  summary: Supervised a week-long solar physics project for a group of high school students who attend MSSL space science week.
+  summary: Supervised a week-long solar physics project for a group of high school students who attended MSSL space science week.
   
 # ORBYTs
 - company: ORBYTs Project -  Wembley High Technology College
@@ -40,7 +45,7 @@
   position: Guest Observer
   duration:  Jul 2022 &mdash; Aug 2022
   summary: >-
-      Participated in the joint observation campaign of elemental fractionation in solar atmosphere using the Swedish 1-m Solar Telescope (SST), GREGOR telescope, Hinode, IRIS and JVLA. From 27 July
+      Participated in the joint observation campaign of elemental fractionation in the solar atmosphere using the Swedish 1-m Solar Telescope (SST), GREGOR telescope, Hinode, IRIS and JVLA. From 27 July
       to 5 August 2022, I visited the SST facility in La Palma, Spain, and operated the telescope to observe
       the target for this campaign. I was also responsible for pointing the target and performing the data
       calibration.
@@ -50,4 +55,4 @@
 - company: Private GCSE Astronomy Tutor
   # position: Communications Coordinator
   duration: Nov 2021  &mdash; Present
-  summary: Prepare and Teach  bi-weekly GCSE Astronomy Lesson for a home-school student via online platform.
+  summary: Prepare and Teach  a bi-weekly GCSE Astronomy Lesson for a home-school student via an online platform.
