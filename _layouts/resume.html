@@ -49,14 +49,14 @@
       </header>
 
       {% if site.resume_section_experience %}
-      <!-- begin Experience -->
+      <!-- begin Employment -->
       <section class="content-section">
 
         <header class="section-header">
           <h2>Employment</h2>
         </header>
 
-        {% for job in site.data.experience %}
+        {% for job in site.data.employment %}
         <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
           <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
