@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Nawin Ngampoopun"
-resume_title:                   "PhD Student in Solar Physics"
+resume_title:                   "Postdoctoral Researcher in Solar Physics"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "nawin.ngampoopun.21@ucl.ac.uk"
+resume_contact_email:           "ngampoopun@mps.mpg.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+44 7824 421819"
-resume_contact_address:         "Mullard Space Science Laboratory, Holmbury St Mary, Dorking, RH5 6NT, UK"
+resume_contact_telephone:       "+49 15510 372507"
+resume_contact_address:         "Max Planck Institute for Solar System Research, Justus-von-Liebig-Weg 3, 37077 Göttingen, Germany "
 
-resume_header_contact_info:     "Mullard Space Science Laboratory, Holmbury St Mary, Dorking, RH5 6NT, UK • nawin.ngampoopun.21@ucl.ac.uk "
+resume_header_contact_info:     "Max Planck Institute for Solar System Research, Justus-von-Liebig-Weg 3, 37077 Göttingen, Germany "
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p> I am a postgraduate research students in Solar Physics from MSSL/UCL. My main research interests are 'Coronal Holes' and solar wind streams emanating from them, which have significant effect on the Earth in form of space weather. Specifically, I focus on the evolutionary aspect of coronal holes and how it may link to the formation of solar wind. </p>"
+resume_header_intro: "<p> I am currently a postdoctoral researcher in solar physics at Max Planck Institute for Solar System Research. My current job is to working on operational and scientific tasks for ASPIICS coronagraph onboard ESA’s PROBA-3 mission. Additionally, my main research interests are 'Coronal Holes' and solar wind streams emanating from them, which have significant effect on the Earth in form of space weather. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
