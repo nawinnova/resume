@@ -4,13 +4,17 @@
 #   position: VP of Global Communications
 #   duration: Oct, 2013 &mdash; Present
 #   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
-
+# - company: Max Planck Institute for Solar System Research
+#   position: Postdoctoral Researcher
+#   duration: Aug 2025 &mdash; Present
+#   summary: Research in Solar Physics, focussing on solar corona and solar wind. Perform operational and scientific tasks for ASPIICS coronagraph onboard ESA's PROBA-3 missions
+  
 - company: Hinode-18/IRIS-16 meeting
   position: Local Organisation Committee (LOC)
-  duration: Oct 2024 &mdash; Present
+  duration: Oct 2024 &mdash; June 2025
   summary: Participate in the organisation and planning of the Hinode-18/IRIS-16 meeting at UCL, UK on 23-27 June 2025
 
-- company: Solar Physics Module (SPCE0011)
+- company: Solar Physics Module (SPCE0011) at Department of Space and Climate Physics, UCL
   position: Postgraduate Teaching Assistant
   duration: Jan 2024 &mdash; Jun 2024
   summary: Responsible for grading the assignments submitted by the students and providing tutorial sessions. Develop a hands-on tutorial to analyse solar spectroscopic observations using Python and Google Colab.
@@ -22,12 +26,12 @@
 
 - company: MSSL Solar Wind Connectivity Working Group
   position: Co-Organiser
-  duration: Dec 2022 &mdash; Present
+  duration: Dec 2022 &mdash; Jun 2025
   summary: Organise a special science working group at MSSL to investigate Heliophysics science using Solar Orbiter Data
 
 - company: MSSL Solar Physics Group
   position: Meeting Organiser, Seminar Organiser
-  duration: Oct 2022 &mdash; Present
+  duration: Oct 2022 &mdash; Jun 2025
   summary: Organise weekly meetings for the solar group in the academic year 2022-23. Organise a semi-regular invited seminar for the solar group in the academic year 2023-24
 
 - company: MSSL Space Science Week
@@ -54,5 +58,5 @@
 # Communications Coordinator
 - company: Private GCSE Astronomy Tutor
   # position: Communications Coordinator
-  duration: Nov 2021  &mdash; Present
+  duration: Nov 2021  &mdash; Jun 2025
   summary: Prepare and Teach  a bi-weekly GCSE Astronomy Lesson for a home-school student via an online platform.
